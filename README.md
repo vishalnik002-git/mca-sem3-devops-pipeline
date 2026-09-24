@@ -1,3 +1,4 @@
+[![MCA DevOps CI/CD Pipeline](https://github.com/vishalnik002-git/mca-sem3-devops-pipeline/actions/workflows/pipeline.yml/badge.svg)](https://github.com/vishalnik002-git/mca-sem3-devops-pipeline/actions)
 # DevOps Pipeline Optimization System
 **MCA 3rd Semester Major Project (Academic Session 2026-2027)**  
 **School of Computer Application and Technology, Galgotias University**
